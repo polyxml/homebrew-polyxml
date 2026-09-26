@@ -5,16 +5,16 @@ Official Homebrew Tap for **PolyXML** — the high-performance, polyglot native 
 ## Installation
 
 ```bash
-brew install nth-bailey/polyxml/polyxml
+brew install polyxml/polyxml/polyxml
 ```
 
 Or tap first:
 
 ```bash
-brew tap nth-bailey/polyxml
+brew tap polyxml/polyxml
 brew install polyxml
 ```
 
 ## Documentation
 
-For full documentation and multi-language guides, visit [nth-bailey.github.io/PolyXML](https://nth-bailey.github.io/PolyXML/).
+For full documentation and multi-language guides, visit [the PolyXML docs](https://polyxml.github.io/PolyXML/).
